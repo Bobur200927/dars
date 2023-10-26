@@ -1,0 +1,32 @@
+*{
+    margin: o;
+    padding: o;
+    box-sizing: border-box;
+}
+
+.a{
+    text-align: center;
+}
+
+.e{
+    
+    text-align: center;
+    text-decoration: underline;
+    
+    
+    
+}
+.d{
+  background-color: rgb(229, 197, 155);
+  padding: 100px;
+}
+
+.g{
+   text-align: left;
+   margin-left: auto;
+}
+
+.h{
+    color: blue;
+}
+   
