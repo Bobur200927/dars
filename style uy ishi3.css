@@ -1,0 +1,134 @@
+.a{
+   margin-top: 40px;
+   margin-left: 300px;  
+}
+
+
+
+.c{
+
+    border: none;
+    background-color: #fff;
+   box-shadow: 2px 3px 2px yellow;
+   margin-top: 15px;
+   margin-bottom: 15px;
+   padding: 10px 15px;
+}
+
+.k{
+    
+   color: red;
+   text-shadow: 10px 10px rgb(33, 114, 200);
+}
+
+.d{
+    width: 200px;
+    margin-top: 15px;
+   margin-bottom: 15px;
+   padding: 10px 15px;
+    border: none;
+    background-color: #fff;
+   box-shadow: 5px 3px 2px red
+   
+} 
+.l{
+   text-shadow: 2px 5px green;
+   text-align: left;
+}
+
+.e{
+    width: 200px;
+    margin-top: 15px;
+   margin-bottom: 15px;
+   padding: 10px 15px;
+    border: none;
+    background-color: #fff;
+   box-shadow: 0px 0px 5px rgb(8, 64, 8)
+   
+} 
+.m{
+   text-shadow: 1px 1px 5px red;
+   text-align: left;
+}
+
+.f{
+    width: 200px;
+    margin-top: 15px;
+   margin-bottom: 15px;
+   padding: 10px 15px;
+    border: none;
+    background-color: #fff;
+   box-shadow: 1px 3px 5px blue
+   
+} 
+.n{
+    color: blue;
+    text-align: left;
+   text-shadow: 1px 3px 1px rgb(7, 67, 7)
+   
+}
+
+.g{
+    width: 200px;
+    margin-top: 15px;
+   margin-bottom: 15px;
+   padding: 10px 15px;
+    border: none;
+    background-color: #fff;
+   box-shadow: 1px 3px 5px blueviolet
+   
+} 
+.o{
+    color: rgb(132, 34, 34);
+    text-align: left;
+   text-shadow: 1px 5px 3px rgb(14, 23, 14)
+   
+}
+
+.h{
+    width: 200px;
+    margin-top: 15px;
+   margin-bottom: 15px;
+   padding: 10px 15px;
+    border: none;
+    background-color: #fff;
+   box-shadow: 20px 3px 2px rgb(222, 245, 78)
+   
+} 
+.p{
+    color: rgb(40, 36, 155);
+    text-align: left;
+   text-shadow: 1px 1px 3px rgb(24, 48, 24)
+}
+
+.j{
+    width: 200px;
+    margin-top: 15px;
+   margin-bottom: 15px;
+   padding: 10px 15px;
+    border: none;
+    background-color: #fff;
+   box-shadow: 0px 2px 5px 5px rgb(176, 28, 28)
+   
+} 
+.q{
+    color: rgb(6, 6, 8);
+    text-align: left;
+   text-shadow: 1px 2px 2px rgb(121, 36, 43)
+}
+
+.i{
+    width: 200px;
+    margin-top: 15px;
+   margin-bottom: 15px;
+   padding: 10px 15px;
+    border: none;
+    background-color: #fff;
+   box-shadow: 5px 5px 5px 10px rgb(91, 221, 240)
+   
+} 
+.r{
+    color: rgb(11, 11, 118);
+    text-align: left;
+   text-shadow: 1px 2px 2px rgb(8, 28, 184)
+}
